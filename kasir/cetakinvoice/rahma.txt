@@ -1,0 +1,9 @@
+Pesanan Anda:
+
+Bakso Mercon		 - Jumlah: 2 - Harga: 40000.00
+Bakso Telor		     - Jumlah: 1 - Harga: 20000.00
+Es Teh Manis		 - Jumlah: 1 - Harga: 5000.00
+
+Total Biaya Pesanan: 65000.00
+Total Bayar: 100000.00
+Kembalian: 35000.00

@@ -1,0 +1,8 @@
+Pesanan Anda:
+
+Es Alpukat	    	 - Jumlah: 3 - Harga: 15000.00
+Bakso Mercon		 - Jumlah: 3 - Harga: 60000.00
+
+Total Biaya Pesanan: 75000.00
+Total Bayar: 1000000.00
+Kembalian: 925000.00
